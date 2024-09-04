@@ -12,12 +12,6 @@ In recent years, computer vision has become an essential component of robotics a
 - Develop a CNN model to compare its performance against traditional methods.
 - Analyze the strengths, weaknesses, and potential applications of each approach in the context of robotics.
 
-## Repository Structure
-
-- **CIFAR10-Traditional.ipynb**: Jupyter Notebook implementing traditional methods (SIFT and HOG) for object recognition on the CIFAR-10 dataset.
-- **CIFAR10-CNN.ipynb**: Jupyter Notebook containing the implementation of a CNN model for the same task.
-- **Report.pdf**: A detailed report comparing the methods, including performance metrics, confusion matrices, and a discussion of the results.
-
 ## Methods
 
 ### Traditional Computer Vision
@@ -63,11 +57,6 @@ The study highlights that while traditional methods like SIFT and HOG offer comp
 2. **Running Notebooks**: Execute the Jupyter Notebooks to replicate the experiments and analyze the results.
 3. **Customization**: Modify the hyperparameters or model architecture in the notebooks to explore further optimizations.
 
-## Conclusion
-
-This project underscores the evolution of computer vision techniques from traditional methods to advanced deep learning models. The comparative study provides insights into their applicability in various scenarios, especially in robotics, where the choice of method can impact both performance and resource utilization.
-
-## References
 
 Refer to the detailed [Report.pdf](./Report.pdf) for a complete list of references and an in-depth analysis of the methodologies used.
 
