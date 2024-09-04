@@ -51,14 +51,8 @@ In recent years, computer vision has become an essential component of robotics a
 
 The study highlights that while traditional methods like SIFT and HOG offer computationally efficient solutions, they fall short in accuracy compared to CNNs. CNNs, with their deep learning architecture, provide superior performance in complex image recognition tasks but at the cost of higher computational demands. The findings suggest a hybrid approach or further optimization of CNNs could benefit applications in robotics where both performance and efficiency are crucial.
 
-## Usage
 
-1. **Setup**: Clone the repository and install the necessary dependencies using the provided `requirements.txt`.
-2. **Running Notebooks**: Execute the Jupyter Notebooks to replicate the experiments and analyze the results.
-3. **Customization**: Modify the hyperparameters or model architecture in the notebooks to explore further optimizations.
-
-
-Refer to the detailed [Report.pdf](./Report.pdf) for a complete list of references and an in-depth analysis of the methodologies used.
+Refer to the detailed [61342-lab-S-report.pdf](./61342-lab-S-report.pdf) for a complete list of references and an in-depth analysis of the methodologies used.
 
 ---
 
