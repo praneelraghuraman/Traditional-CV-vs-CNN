@@ -54,8 +54,3 @@ The study highlights that while traditional methods like SIFT and HOG offer comp
 
 Refer to the detailed [61342-lab-S-report.pdf](./61342-lab-S-report.pdf) for a complete list of references and an in-depth analysis of the methodologies used.
 
----
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
